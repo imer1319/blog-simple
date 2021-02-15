@@ -120,6 +120,8 @@
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/vendor/league/commonmark" />
       <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/sven/artisan-view" />
     </include_path>
   </component>
   <component name="ProjectId" id="1oIvfYrDjdqrxYbWD5XZskv3wxT" />
@@ -131,6 +133,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/admin/tag" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -139,6 +142,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zzproyectos\blog-rimorsoft\resources\views\admin\tag" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -155,7 +163,15 @@
       <option name="presentableId" value="Default" />
       <updated>1612987022585</updated>
       <workItem from="1612987037439" duration="5133000" />
-      <workItem from="1612994725570" duration="4811000" />
+      <workItem from="1612994725570" duration="5446000" />
+      <workItem from="1613048230914" duration="6428000" />
+      <workItem from="1613134506830" duration="5627000" />
+      <workItem from="1613167467043" duration="761000" />
+      <workItem from="1613238535299" duration="4003000" />
+      <workItem from="1613269643410" duration="919000" />
+      <workItem from="1613308233019" duration="5127000" />
+      <workItem from="1613327798791" duration="7246000" />
+      <workItem from="1613397718744" duration="7255000" />
     </task>
     <servers />
   </component>
